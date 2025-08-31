@@ -1,0 +1,5 @@
+# Apple intelligence
+payload:
+# >> Apple intelligence
+  - DOMAIN,apple-relay.apple.com
+  - DOMAIN,apple-relay.cloudflare.com

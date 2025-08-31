@@ -17,15 +17,17 @@
 | NicoNico    | niconico 服务                                                     |
 | ACGPOWER    | ACGPOWER pac 提取（仅供参考，不推荐作为策略组使用）               |
 | AI          | 各家 AI 服务（还在测试中，不完善），Cursor 和 openAI 也移动到这里 |
-| OpenAI      | OpenAI,chatGPT 服务                                               |
-| Anthropic      |claude系列                                           |
+| OpenAI      | OpenAI , chatGPT 服务                                               |
+| Anthropic      |Claude系列                                           |
 | Gemini      |Google Gemini系列                                           |
 | xAI      |Grok系列                                           |
-| Cursor      | cursor 服务                                                       |
+| Cursor      | Cursor 服务                                                       |
 | AugmentCode      |AugmentCode 服务                                           |
 | Trae      |Trae 服务                                           |
-| Windsurf     |Windsurf服务                                           |
-
+| Windsurf     |Windsurf 服务                                           |
+| MixLinux     |一位佬友的混合 AI 规则                                          |
+| Meta     |Facebook , Meta AI（不全）                                  |
+| AppleIntelligence     |果系AI                                 |
 
 ## HOW TO USE
 
