@@ -28,6 +28,7 @@
 | MixLinux     |一位佬友的混合 AI 规则                                          |
 | Meta     |Facebook , Meta AI（不全）                                  |
 | AppleIntelligence     |果系AI                                 |
+| Binance     |Binance                                 |
 
 ## HOW TO USE
 
